@@ -23,3 +23,4 @@ cd test
 
 Feel free to use this repo as a scratch pad for snippets, config tests, or anything else that does not belong in a real project.
     
+updated read me file lets see this is in the zip or not
